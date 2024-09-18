@@ -1,0 +1,14 @@
+package Music_Player;
+
+import java.util.ArrayList;
+
+public class Album {
+ private String name ;
+ private String artist;
+ private ArrayList<Song> songs;
+
+
+ public Album (String name, String artist, ArrayList<Song>songs){
+  this.name = 
+ }
+}
